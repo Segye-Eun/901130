@@ -7,7 +7,7 @@ public class Run {
 		System.out.println("나의 첫 git실행!");
 		
 		int age=32;
-		String name="은세계";
+		String address="서울시 동작구";
 		
 	}
 
